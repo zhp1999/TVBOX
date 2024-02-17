@@ -95,18 +95,17 @@ NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/
 NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2614190807_1624483481/ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8?icpid=3&RTS=1674387024&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
-#EXTINF:-1,黑莓动画
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/inde.mu38
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1,CHC高清电影
+CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1,CHC动作电影 8M1080
+CHC动作电影 8M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1,CHC家庭影院 8M1080
+CHC家庭影院 8M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1,悦美生活[1920*1080]
+悦美生活[1920*1080]
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002325/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,都市剧场
+都市剧场
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/全纪实" tvg-id="全纪实" tvg-name="全纪实",全纪实
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
@@ -114,13 +113,13 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226328/index.m3u8
 #EXTINF:-1,极速汽车
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
-#EXTINF:-1,快乐垂钓
+快乐垂钓
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
-#EXTINF:-1,茶频道
+茶频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
-#EXTINF:-1,超级综艺
+超级综艺
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1,超级体育
+超级体育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
 #EXTINF:-1,超级电影
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
